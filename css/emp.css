@@ -3,6 +3,7 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 #team {
     background: #eee !important;
+    margin-top: 5%;
 }
 
 
@@ -21,8 +22,9 @@
 #mainNavbar {
     font-size: 14px;
     font-weight: 100;  
-    background-color: black;  
+    background-color: #333;  
     font-family: 'Merriweather', serif;
+    height: 80px;
 }
 
 #mainNavbar .nav-link {
@@ -30,16 +32,16 @@
 }
 
 #mainNavbar .nav-link:hover {
-    color: #bf04bf;
+    color: #108d6f;
 }
 
 #mainNavbar .navbar-brand {
-    color: #bf04bf;
+    color: #108d6f;
     font-size: 1.5rem;
 }
 
 #headingGroup span {
-    color: #bf04bf;
+    color: #108d6f;
 }
 
 #headingGroup h1 {
